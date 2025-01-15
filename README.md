@@ -1,5 +1,5 @@
 # CharDriver
 Linux Character Driver
 
-`Make`
+`Make` <br />
 `sudo insmod main.ko`
